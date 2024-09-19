@@ -1,7 +1,9 @@
 Football AI
 
 ## Overview
- The ultimate goal of this project is to develop a program that acts as an offensive coordinator for a football team. This system will suggest plays based on various factors, including: - Defensive formations
+ The ultimate goal of this project is to develop a program that acts as an offensive coordinator for a football team. This system will suggest plays based on various factors, including: 
+- Defensive formations
+- Players on field
 - Weather conditions
 - Player statistics
 - Time of game
@@ -28,20 +30,20 @@ Before you begin, ensure you have the following installed:
 -Use own All22 video
 
 Required Libraries
-    • Roboflow
-    • Ultralytics
-    • OpenCV
+    â€¢ Roboflow
+    â€¢ Ultralytics
+    â€¢ OpenCV
 
 Roboflow Account:
-    • Create a Roboflow account to access and manage your datasets.
+    â€¢ Create a Roboflow account to access and manage your datasets.
 
 Data Preparation:
-    • Have a dataset prepared that includes relevant images or videos, along with annotations for training the model. This dataset should ideally capture various game scenarios, defensive formations, and player actions.
+    â€¢ Have a dataset prepared that includes relevant images or videos, along with annotations for training the model. This dataset should ideally capture various game scenarios, defensive formations, and player actions.
 
 Development Environment:
-    • A code editor or IDE (such as PyCharm, Visual Studio Code, or Jupyter Notebook) for writing and executing your Python code.
-    • Basic Knowledge:
-    • Familiarity with Python programming, machine learning concepts, and how to work with APIs.
-    • Additional Data Sources (Optional):
-    • If you plan to incorporate player stats, weather conditions, and historical performance, you may need access to additional data sources or APIs that provide this information.
+    â€¢ A code editor or IDE (such as PyCharm, Visual Studio Code, or Jupyter Notebook) for writing and executing your Python code.
+    â€¢ Basic Knowledge:
+    â€¢ Familiarity with Python programming, machine learning concepts, and how to work with APIs.
+    â€¢ Additional Data Sources (Optional):
+    â€¢ If you plan to incorporate player stats, weather conditions, and historical performance, you may need access to additional data sources or APIs that provide this information.
 
